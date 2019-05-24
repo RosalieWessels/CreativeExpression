@@ -1,0 +1,19 @@
+body {
+  background-color: #ffe2e2;
+}
+
+hr {
+  border-style: none;
+  border-top: 5px dotted #ffc7c7;
+  width: 5%;
+}
+
+.image {
+  border-radius: 10%;
+}
+
+.clock {
+  border-radius: 100%;
+  height: 600px;
+  width: 600px;
+}
